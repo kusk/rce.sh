@@ -98,6 +98,7 @@ section {
 
 h1 {
     font-weight: 100;
+    margin 0 0 0 0;
     font-family: Source Sans Pro;
 }
 
@@ -134,4 +135,8 @@ header {
 nav, section {
   padding: 0;
   height: 500px;
+}
+
+nav {
+	margin: 15px 0 0 0;
 }
